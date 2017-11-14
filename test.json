@@ -1,77 +1,20 @@
 {"timeFreeToday": [
+    
+],
+"timeFreeTomorrow": [
     {
-      "id": "i554",
-      "dateIt": "today",
-      "timeIt": "10:0"
+      "id": "i561",
+      "dateIt": "tomorrow",
+      "timeIt": "09:05"
     },
     {
-      "id": "i554",
-      "dateIt": "today",
+      "id": "i562",
+      "dateIt": "tomorrow",
       "timeIt": "10:30"
     },
     {
-      "id": "i554",
-      "dateIt": "today",
-      "timeIt": "11:00"
-    },
-    {
-      "id": "i554",
-      "dateIt": "today",
-      "timeIt": "11:30"
-    },
-    {
-      "id": "i554",
-      "dateIt": "today",
-      "timeIt": "12:00"
-    },
-    {
-      "id": "i554",
-      "dateIt": "today",
-      "timeIt": "12:30"
-    },
-    {
-      "id": "i554",
-      "dateIt": "today",
-      "timeIt": "13:00"
-    },
-    {
-      "id": "i554",
-      "dateIt": "today",
-      "timeIt": "13:30"
-    },
-    {
-      "id": "i554",
-      "dateIt": "today",
-      "timeIt": "14:00"
-    },
-    {
-      "id": "i555",
-      "dateIt": "today",
-      "timeIt": "16:50"
-    },
-    {
-      "id": "i556",
-      "dateIt": "today",
-      "timeIt": "17:05"
-    },
-    {
-      "id": "i557",
-      "dateIt": "today",
-      "timeIt": "17:30"
-    },
-    {
-      "id": "i558",
-      "dateIt": "today",
+      "id": "i563",
+      "dateIt": "tomorrow",
       "timeIt": "17:45"
-    },
-    {
-      "id": "i559",
-      "dateIt": "today",
-      "timeIt": "18:10"
-    },
-    {
-      "id": "i560",
-      "dateIt": "today",
-      "timeIt": "18:25"
     }
 ]}
